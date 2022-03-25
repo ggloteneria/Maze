@@ -1,0 +1,45 @@
+C:\Users\User\Desktop\4_Course\Программная Инженерия\Лабиринт\Labirint\Labirint\bin\Debug\Labirint.exe.config
+C:\Users\User\Desktop\4_Course\Программная Инженерия\Лабиринт\Labirint\Labirint\bin\Debug\Labirint.exe
+C:\Users\User\Desktop\4_Course\Программная Инженерия\Лабиринт\Labirint\Labirint\bin\Debug\Labirint.pdb
+C:\Users\User\Desktop\4_Course\Программная Инженерия\Лабиринт\Labirint\Labirint\obj\Debug\Labirint.csprojAssemblyReference.cache
+C:\Users\User\Desktop\4_Course\Программная Инженерия\Лабиринт\Labirint\Labirint\obj\Debug\Labirint.Form1.resources
+C:\Users\User\Desktop\4_Course\Программная Инженерия\Лабиринт\Labirint\Labirint\obj\Debug\Labirint.Properties.Resources.resources
+C:\Users\User\Desktop\4_Course\Программная Инженерия\Лабиринт\Labirint\Labirint\obj\Debug\Labirint.csproj.GenerateResource.cache
+C:\Users\User\Desktop\4_Course\Программная Инженерия\Лабиринт\Labirint\Labirint\obj\Debug\Labirint.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\4_Course\Программная Инженерия\Лабиринт\Labirint\Labirint\obj\Debug\Labirint.exe
+C:\Users\User\Desktop\4_Course\Программная Инженерия\Лабиринт\Labirint\Labirint\obj\Debug\Labirint.pdb
+C:\Users\lkaiz\Desktop\Labirint\Лабиринт\Labirint\Labirint\bin\Debug\Labirint.exe.config
+C:\Users\lkaiz\Desktop\Labirint\Лабиринт\Labirint\Labirint\bin\Debug\Labirint.exe
+C:\Users\lkaiz\Desktop\Labirint\Лабиринт\Labirint\Labirint\bin\Debug\Labirint.pdb
+C:\Users\lkaiz\Desktop\Labirint\Лабиринт\Labirint\Labirint\obj\Debug\Labirint.csprojResolveAssemblyReference.cache
+C:\Users\lkaiz\Desktop\Labirint\Лабиринт\Labirint\Labirint\obj\Debug\Labirint.Properties.Resources.resources
+C:\Users\lkaiz\Desktop\Labirint\Лабиринт\Labirint\Labirint\obj\Debug\Labirint.csproj.GenerateResource.Cache
+C:\Users\lkaiz\Desktop\Labirint\Лабиринт\Labirint\Labirint\obj\Debug\Labirint.csproj.CoreCompileInputs.cache
+C:\Users\lkaiz\Desktop\Labirint\Лабиринт\Labirint\Labirint\obj\Debug\Labirint.exe
+C:\Users\lkaiz\Desktop\Labirint\Лабиринт\Labirint\Labirint\obj\Debug\Labirint.pdb
+C:\Users\lkaiz\Desktop\Labirint\Лабиринт\Labirint\Labirint\obj\Debug\Labirint.devInfoForm.resources
+C:\Users\lkaiz\Desktop\Labirint\Лабиринт\Labirint\Labirint\obj\Debug\Labirint.Game.resources
+C:\Users\galak\RiderProjects\Labirint\Labirint\bin\Debug\Labirint.exe.config
+C:\Users\galak\RiderProjects\Labirint\Labirint\bin\Debug\Labirint.exe
+C:\Users\galak\RiderProjects\Labirint\Labirint\bin\Debug\Labirint.pdb
+C:\Users\galak\RiderProjects\Labirint\Labirint\obj\Debug\Labirint.csproj.AssemblyReference.cache
+C:\Users\galak\RiderProjects\Labirint\Labirint\obj\Debug\Labirint.Properties.Resources.resources
+C:\Users\galak\RiderProjects\Labirint\Labirint\obj\Debug\Labirint.csproj.GenerateResource.cache
+C:\Users\galak\RiderProjects\Labirint\Labirint\obj\Debug\Labirint.csproj.CoreCompileInputs.cache
+C:\Users\galak\RiderProjects\Labirint\Labirint\obj\Debug\Labirint.exe
+C:\Users\galak\RiderProjects\Labirint\Labirint\obj\Debug\Labirint.pdb
+C:\Users\galak\RiderProjects\Labirint\Labirint\obj\Debug\Labirint.DevInfoForm.resources
+C:\Users\galak\RiderProjects\Labirint\Labirint\obj\Debug\Labirint.LoginForm.resources
+C:\Users\galak\RiderProjects\Labirint\Labirint\obj\Debug\Labirint.GameForm.resources
+C:\Users\Артем\Desktop\Labirint\Labirint\bin\Debug\Labirint.exe.config
+C:\Users\Артем\Desktop\Labirint\Labirint\bin\Debug\Labirint.exe
+C:\Users\Артем\Desktop\Labirint\Labirint\bin\Debug\Labirint.pdb
+C:\Users\Артем\Desktop\Labirint\Labirint\obj\Debug\Labirint.csproj.AssemblyReference.cache
+C:\Users\Артем\Desktop\Labirint\Labirint\obj\Debug\Labirint.GameForm.resources
+C:\Users\Артем\Desktop\Labirint\Labirint\obj\Debug\Labirint.LoginForm.resources
+C:\Users\Артем\Desktop\Labirint\Labirint\obj\Debug\Labirint.Properties.Resources.resources
+C:\Users\Артем\Desktop\Labirint\Labirint\obj\Debug\Labirint.csproj.GenerateResource.cache
+C:\Users\Артем\Desktop\Labirint\Labirint\obj\Debug\Labirint.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Desktop\Labirint\Labirint\obj\Debug\Labirint.exe
+C:\Users\Артем\Desktop\Labirint\Labirint\obj\Debug\Labirint.pdb
+C:\Users\Артем\Desktop\Labirint\Labirint\obj\Debug\Labirint.devInfoForm.resources

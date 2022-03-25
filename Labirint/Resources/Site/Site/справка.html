@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en>
+	<head>
+		<meta charset="UTF-8">
+		<title>Справка</title>
+		<link rel="stylesheet" href="style.css">
+		<style>
+		
+	   </style>
+	</head>
+	<body>
+		<header>
+                                               
+		    <a class="back_to_top" title="Up">↑</a>
+            <script>
+                (function() {
+                    'use strict';
+
+                    function trackScroll() {
+                        var scrolled = window.pageYOffset;
+                        var coords = document.documentElement.clientHeight;
+
+                        if (scrolled > coords) {
+                            goTopBtn.classList.add('back_to_top-show');
+                        }
+                        if (scrolled < coords) {
+                            goTopBtn.classList.remove('back_to_top-show');
+                        }
+                    }
+
+                    function backToTop() {
+                        if (window.pageYOffset > 0) {
+                            window.scrollBy(0, -80);
+                            setTimeout(backToTop, 0);
+                        }
+                    }
+
+                    var goTopBtn = document.querySelector('.back_to_top');
+
+                    window.addEventListener('scroll', trackScroll);
+                    goTopBtn.addEventListener('click', backToTop);
+                })();
+            </script>
+                                             
+		<div class='d1'><h1>Лабиринт Покемемонов</h1>
+		</div>
+		<div>
+			<!-- <nav class="nav"> -->
+			<!-- <a class="link" href="#введение">Введение</a> -->
+			<!-- <a class="link" href="#Запуск_программы">Запуск программы</a> -->
+			<!-- <a class="link" href="#Параметры">Блок "Параметры"</a> -->
+			<!-- <a class="link" href="#Генерация">Блок "Генерация"</a> -->
+			<!-- <a class="link" href="#Поиск">Блок "Поиск пути"</a> -->
+			<!-- <a class="link" href="#Выход">Выход из программы</a> -->
+			<!-- </nav>		 -->
+		</div>
+		</header>
+			<div></div>
+		<div class='d3'>
+			<div class='d2'>
+				<h2>Автоматизированная система генерирования лабиринта и нахождения выхода из него</h2>
+				<!-- <img src="img/poc31.jpg" height=200px alt="" class="right_pos"> -->
+				<img src="img/gif.gif" class="right_pos " height=259px>
+				<div class="vertical-menu">
+				  <a href="#введение">Ввдение</a>
+				  <a href="#Запуск_программы">Запуск программы</a>
+				  <a href="#Параметры">Блок "Параметры"</a>
+				  <a href="#Генерация">Блок "Генерация"</a>
+				  <a href="#Поиск">Блок "Поиск пути"</a>
+				 <a href="#Выход">Выход из программы</a>
+				</div>
+				
+				<h3 id="введение">Введение</h3>
+				<p>
+					Лабиринт – архитектурное сооружение, сконструированное таким образом, что, однажды попав в него, невозможно или 
+					очень трудно выбраться обратно. Иногда это парк или сад, созданный по тому же принципу. 
+					Программная система совместима с Windows 7, 8 и 10.
+				</p>
+<!--				<p><button onclick="topFunction()" id="myBtn" title="Go to top" class="btn btn1"> Вверх</button></p>-->
+				<h3 id="Запуск_программы" >Запуск программы</h3>
+				<p>
+					При запуске программы будет появляться главное окно программы.
+					
+				</p>
+				<img src="img/1.png" height=500px alt="" >
+				<p>
+<!--				<p><button onclick="topFunction()" id="myBtn" title="Go to top" class="btn btn1"> Вверх</button></p>-->
+				<h3 id="Параметры">Блок "Параметры"</h3>
+				<p>
+					В блоке "Параметры" устанавливаются значения высоты и ширины лабиринта. Также можно выбрать тему лабиринта. Далее нажать кнопку "Создать можель." 
+				</p>
+				<img src="img/1.1.png" height=500px alt="" >
+<!--				<p><button onclick="topFunction()" id="myBtn" title="Go to top" class="btn btn1"> Вверх</button></p>-->
+				<h3 id="Генерация">Блок "Генерация"</h3>
+				<p>
+					В блоке "Генерация" необходимо выбрать способ расстановки входа и выхода лабиринта.  
+				</p>
+				<img src="img/2.png" height=500px alt="" >
+				<p>Далее нажать кнопку "Раставить".</p>
+				<img src="img/3.png" height=400px alt="" >
+				<p>Далее выбирается алгоритм создания лабиринта. После выбора нажать кнопку "Сгенерировать".</p>
+<!--
+				<img src="img/4.png" height=500px alt="" >
+				<p><button onclick="topFunction()" id="myBtn" title="Go to top" class="btn btn1"> Вверх</button></p>
+-->
+				<h3 id="Поиск">Блок "Поиск пути"</h3>
+				<p>
+					В блоке "Поиск пути" необходимо выбрать один из способов прохождения лабиринта, а также способ визуализации. 
+					При выборе режима "Динамический" можно установить нужную скорость прохождения лабиринта. 
+					Далее нужно нажать кнопку "Искать".
+					
+					
+				</p>
+                                                      <img src="img/5.png" height=500px alt="" >
+<!--				<p><button onclick="topFunction()" id="myBtn" title="Go to top" class="btn btn1"> Вверх</button></p>-->
+				<h3 id="Выход">Выход из программы</h3> 
+				<p>
+					Нажав на копку "Х" существляется выход из программы, её полное завершение.
+				</p>				
+<!--				<p><button onclick="topFunction()" id="myBtn" title="Go to top" class="btn btn1 "> Вверх</button></p>-->
+			</div>
+		</div>
+		<footer>
+			<nav class="nav">
+			</nav>	
+		</footer>
+
+		<script>
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        document.getElementById("myBtn").style.display = "block";
+    } else {
+        document.getElementById("myBtn").style.display = "none";
+    }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+}
+</script>
+
+	</body>
+</html>
